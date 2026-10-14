@@ -1,0 +1,15 @@
+# Build
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Certificados e configuração com senha: NUNCA versionar
+*.pfx
+*.p12
+config.cfg
+
+# PDFs de teste
+*.pdf
